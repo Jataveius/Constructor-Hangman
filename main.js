@@ -10,9 +10,7 @@ var letter = require('./letter.js')
 var choice; 
 
 exports.letter; 
-
 exports.wordGuess;
-
 exports.lives = 0; 
 exports.chosenWord = game.chooseWord();
 
